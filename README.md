@@ -4,7 +4,7 @@ This repository presents Friends of PrestaShop community, its missions, intents 
 
 ## Publics
 
-We are PrestaShop integrators and developers, working together on modules themes and additional resources.
+We are PrestaShop integrators and developers, working together on modules, themes and additional resources.
 
 > Is this organization and its differents channels open for merchants and complete beginners?
 
