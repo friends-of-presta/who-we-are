@@ -8,7 +8,7 @@ We are PrestaShop integrators and developers, working together on modules, theme
 
 > Is this organization and its differents channels open for merchants and complete beginners?
 
-No, please refers to the official forum of PrestaShop if you're a merchant or to the official User or Developers documentations if you needs to learn PrestaShop basics.
+No, please refers to the official forum of PrestaShop if you're a merchant or to the official User or Developers documentations if you need to learn PrestaShop basics.
 
 ## Intents
 
