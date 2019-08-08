@@ -1,8 +1,8 @@
-# Friends of PrestaShop
+# Friends of Presta
 
-This repository presents Friends of PrestaShop community, its missions, intents and publics.
+This repository presents Friends of Presta community, its missions, intents and publics.
 
-## Publics
+## People
 
 We are PrestaShop integrators and developers, working together on modules, themes and additional resources.
 
@@ -10,10 +10,10 @@ We are PrestaShop integrators and developers, working together on modules, theme
 
 No, please refers to the official forum of PrestaShop if you're a merchant or to the official User or Developers documentations if you need to learn PrestaShop basics.
 
-## Intents
+## What we do
 
 We want a space to share resources, tips and help each other.
-Everything provided here is free and open source, if you need a commercial support consider to contact someone on our [community Slack](http://friends-of-presta.slack.com).
+Everything provided here is free and open source, if you need a commercial support consider to contact someone on our [Slack community](http://friends-of-presta.slack.com).
 
 ## About the PrestaShop company
 
@@ -23,3 +23,8 @@ You may meet some PrestaShop employees on the Slack, but keep in mind that offic
 ## Code of Conduct
 
 As for now, you can consider that we will follow the PrestaShop community Code of Conduct once they will publish it. 
+
+## Coding conventions
+
+As for now, the modules and code samples should follow [Prestashop coding standards](https://devdocs.prestashop.com/1.7/development/coding-standards/) ( PSR-2 standard, Symfony standards, ...) and naming convention but it's not absolutely required : usefull stuff first.
+PHP CS Fixer with prestashop settings can be used.
