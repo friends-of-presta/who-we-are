@@ -14,6 +14,7 @@ No, please refers to the official forum of PrestaShop if you're a merchant or to
 
 We want a space to share resources, tips and help each other.
 Everything provided here is free and open source, if you need a commercial support consider to contact someone on our [Slack community](http://friends-of-presta.slack.com).
+Here is the [subscription link](https://join.slack.com/t/friends-of-presta/shared_invite/enQtNzQ5ODMyODY2MDgxLTA2MmE0MjQ5NTA3NjdmZWE5NzAyZDI2N2YzZTY1OGQwZDZhYmQyOTU0NGZhYmFmYmJkMGQxNzU2NzUzZjM2ZmM)
 
 ## About the PrestaShop company
 
