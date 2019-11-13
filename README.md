@@ -23,8 +23,7 @@ You may meet some PrestaShop employees on the Slack, but keep in mind that offic
 
 ## Code of Conduct
 
-As for now, you can consider that we will follow the PrestaShop community Code of Conduct once they will publish it. 
-
+The code of conduct can be found [here](https://github.com/friends-of-presta/open-source/tree/master/code-of-conduct).
 ## Coding conventions
 
 As for now, the modules and code samples should follow [Prestashop coding standards](https://devdocs.prestashop.com/1.7/development/coding-standards/) ( PSR-2 standard, Symfony standards, ...) and naming convention but it's not absolutely required : usefull stuff first.
