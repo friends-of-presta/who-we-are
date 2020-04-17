@@ -24,7 +24,14 @@ You may meet some PrestaShop employees on the Slack, but keep in mind that offic
 ## Code of Conduct
 
 The code of conduct can be found [here](https://github.com/friends-of-presta/open-source/tree/master/code-of-conduct).
+
 ## Coding conventions
 
 As for now, the modules and code samples should follow [Prestashop coding standards](https://devdocs.prestashop.com/1.7/development/coding-standards/) ( PSR-2 standard, Symfony standards, ...) and naming convention but it's not absolutely required : usefull stuff first.
 PHP CS Fixer with prestashop settings can be used.
+
+## Logos
+
+Original logo and mascot by [Klemart3D](https://klemart3d.fr/).
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />Friends of Presta logos are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
