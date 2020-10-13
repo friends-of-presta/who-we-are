@@ -34,4 +34,10 @@ PHP CS Fixer with prestashop settings can be used.
 
 Original logo and mascot by [Klemart3D](https://klemart3d.fr/).
 
+![](fop_logotype-horizontal-blanc-avec-fond.svg)
+![](fop_logotype-horizontal-blanc-sans-fond.svg)
+![](fop_logotype-horizontal-bleu.svg)
+![](fop_logotype-vertical-blanc-sans-fond.svg)
+![](fop_logotype-vertical-bleu.svg)
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />Friends of Presta logos are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
